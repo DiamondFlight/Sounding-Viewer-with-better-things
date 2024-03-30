@@ -1,4 +1,5 @@
 print("loading libraries")
+print("WARNING: this MAY NOT WORK in python version besides 3.7.8")
 
 import os
 import pip
